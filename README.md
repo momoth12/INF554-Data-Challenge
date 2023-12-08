@@ -16,4 +16,4 @@ And our experimentation with graphs in the graph_experimentation notebook.
 
 ## Source files
 
-Our code expects a 
+Our code expects the test and training folders in the same folder.
